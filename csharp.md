@@ -7,7 +7,7 @@ Below is the table of .Net framework versions, which have been released with the
 
 For example, in framework 3.5 and onwards a key framework called the Entity framework was released. This framework is used to change the approach in which the applications are developed while working with databases.
 
-|Version Number	| CLR version	| Release date | 
+|Version Number	| CLR version	| Release Date | 
 |:--------------|:--------------|:-------------|
 | 1.0	        | 1.0	        | 2002-02-13   | 
 | 1.1	        | 1.1	        | 2003-04-24   | 
@@ -22,4 +22,4 @@ For example, in framework 3.5 and onwards a key framework called the Entity fram
 | 4.6.1	        | 4	            | 2015-11-17   | 
 | 4.6.2	        | 4	            | 2016-08-02   | 
 | 4.7	        | 4         	| 2017-04-05   | 
-| 4.7.1	        | 4	            | 2017-10-17   | 
+| 4.7.1	        | 4	            | 2017-10-17   |  
