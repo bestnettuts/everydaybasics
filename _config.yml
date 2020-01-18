@@ -12,7 +12,7 @@ search_tokenizer_separator: /[\s/]+/
 # Aux links for the upper right navigation
 aux_links: 
   "Projects":
-    - "https://github.com/bestnettuts/everydaybasics"
+    - "https://github.com/bestnettuts"
     
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Best Net Tuts."
