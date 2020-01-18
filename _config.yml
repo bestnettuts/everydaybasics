@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+title: "Interview QA"
+
+remote_theme: pmarsceill/just-the-docs 
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+# Aux links for the upper right navigation
+aux_links: 
+  "Projects":
+    - "https://github.com/ssbalakumar"
+    
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Bala Kumar."
