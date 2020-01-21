@@ -23,3 +23,257 @@ For example, in framework 3.5 and onwards a key framework called the Entity fram
 | 4.6.2	        | 4	            | 2016-08-02   | 
 | 4.7	        | 4         	| 2017-04-05   | 
 | 4.7.1	        | 4	            | 2017-10-17   |  
+
+ 
+                
+                   
+                        | 
+                            Version
+                        | 
+                       
+                            .NET Framework
+                        | 
+                       
+                            Visual Studio
+                        | 
+                        | 
+                            Important Features
+                        | 
+                   
+                   
+                        | 
+                            C# 1.0
+                        | 
+                        
+                            .NET Framework 1.0/1.1
+                        | 
+                        
+                            Visual Studio .NET 2002
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Basic features
+                                </li>
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 2.0
+                        | 
+                        
+                            .NET Framework 2.0
+                        | 
+                        
+                            Visual Studio 2005
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Generics
+                                </li>
+                                <li>
+                                    Partial types
+                                </li>
+                                <li>
+                                    Anonymous methods
+                                </li>
+                                <li>
+                                    Iterators
+                                </li>
+                                <li>
+                                    Nullable types
+                                </li>
+                                <li>
+                                    Private setters (properties)
+                                </li>
+                                <li>
+                                    Method group conversions (delegates)
+                                </li>
+                                <li>
+                                    Covariance and Contra-variance
+                                </li>
+                                <li>
+                                    Static classes
+                                </li>
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 3.0
+                        | 
+                        
+                            .NET Framework 3.0\3.5
+                        | 
+                        
+                            Visual Studio 2008
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Implicitly typed local variables
+                                </li>
+                                <li>
+                                    Object and collection initializers
+                                </li>
+                                <li>
+                                    Auto-Implemented properties
+                                </li>
+                                <li>
+                                    Anonymous types
+                                </li>
+                                <li>
+                                    Extension methods
+                                </li>
+                                <li>
+                                    Query expressions
+                                </li>
+                                <li>
+                                    Lambda expressions
+                                </li>
+                                <li>
+                                    Expression trees
+                                </li>
+                                <li>
+                                    Partial Methods
+                                </li>
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 4.0
+                        | 
+                        
+                            .NET Framework 4.0
+                        | 
+                        
+                            Visual Studio 2010
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Dynamic binding (late binding)
+                                </li>
+                                <li>
+                                    Named and optional arguments
+                                </li>
+                                <li>
+                                    Generic co- and contravariance
+                                </li>
+                                <li>
+                                    Embedded interop types
+                                </li>
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 5.0
+                        | 
+                        
+                            .NET Framework 4.5
+                        | 
+                        
+                            Visual Studio 2012/2013
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Async features
+                                </li>
+                                <li>
+                                    Caller information
+                                </li>
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 6.0
+                        | 
+                        
+                            .NET Framework 4.6
+                        | 
+                        
+                            Visual Studio 2013/2015
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Expression Bodied Methods
+                                </li>
+                                <li>
+                                    Auto-property initializer
+                                </li>
+                                <li>nameof Expression</li>
+                                <li>Primary constructor</li>
+                                <li>Await in catch block</li>
+                                <li>Exception Filter</li>
+                                <li>String Interpolation</li>
+
+                            </ul>
+
+                        | 
+                   
+                   
+                        | 
+                            C# 7.0
+                        | 
+                        
+                            .NET Core 2.0
+                        | 
+                        
+                            Visual Studio 2017
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    out variables
+                                </li>
+                                <li>
+                                    Tuples
+                                </li>
+                                <li>Discards</li>
+                                <li>Pattern Matching</li>
+                                <li>Local functions</li>
+                                <li>Generalized async return types</li>
+                                <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7" target="_blank" class="external-link">more..</a></li>
+                            </ul>
+                        | 
+                   
+                   
+                        | 
+                            C# 8.0
+                        | 
+                        
+                            .NET Core 3.0
+                        | 
+                        
+                            Visual Studio 2019
+                        | 
+                        | 
+                            <ul class="ul-table">
+                                <li>
+                                    Readonly members
+                                </li>
+                                <li>
+                                    Default interface methods
+                                </li>
+                                <li>Using declarations</li>
+                                <li>Static local functions</li>
+                                <li>Disposable ref structs</li>
+                                <li>Nullable reference types</li>
+                                <li><a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8" target="_blank" class="external-link">more..</a></li>
+                            </ul>
+                        | 
+                   
+                </tbody>
+            </table>
